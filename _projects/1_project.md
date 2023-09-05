@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ML Systems
+title: Machine Learning Systems
 description: Efficient ML Inference and Training
 img: assets/img/12.jpg
 importance: 1
