@@ -2,7 +2,7 @@
 layout: page
 title: Stochastic Computing
 description: A New Computing Paradigm for Machine Learning
-img: assets/img/3.jpg
+img: assets/img/sc.png
 importance: 2
 category: work
 ---
