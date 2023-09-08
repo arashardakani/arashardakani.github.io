@@ -17,7 +17,7 @@ Over the past few years, increasing the size of machine learning models has been
 
 [Standard Deviation-Based Quantization for Deep Neural Networks](https://arxiv.org/abs/2202.12422) (Amir Ardakani, Arash Ardakani, Brett Meyer, James J Clark, Warren J Gross, Preprint 2022)
 
-[Efficient Two-Stage Progressive Quantization of BERT](https://aclanthology.org/2022.sustainlp-1.2) (Charles Le, Arash Ardakani, Amir Ardakani, Hang Zhang, Yuyan Chen, James Clark, Brett Meyer, Warren Gross, sustainlp 2022)
+[Efficient Two-Stage Progressive Quantization of BERT](https://aclanthology.org/2022.sustainlp-1.2) (Charles Le, Arash Ardakani, Amir Ardakani, Hang Zhang, Yuyan Chen, James Clark, Brett Meyer, Warren Gross, SustaiNLP 2022)
 
 
 [Training Binarized Neural Networks Using Ternary Multipliers](https://ieeexplore.ieee.org/abstract/document/9367226) (Amir Ardakani, Arash Ardakani and Warren Gross, IEEE Design & Test 2021)
