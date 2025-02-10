@@ -6,7 +6,7 @@ subtitle: <a href='https://slice.eecs.berkeley.edu/'>UC Berkeley</a>
 
 profile:
   align: right
-  image: arash.jpg
+  image: Photo_Arash.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Slice Lab, Soda Hall, Berkeley, CA</p>
