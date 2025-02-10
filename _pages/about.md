@@ -9,7 +9,7 @@ profile:
   image: Photo_Arash.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Slice Lab, Soda Hall, Berkeley, CA</p>
+    <p>Room #307, Cory Hall, Berkeley, CA</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
