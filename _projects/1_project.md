@@ -11,7 +11,7 @@ related_publications:
 Over the past few years, increasing the size of machine learning models has been a common trend among practitioners to increase their learning capacity for performing human-like activities. In fact, we have reached the point where most SOTA models designed for computer vision and natural language processing tasks (e.g., large language models (LLMs) and large vision transformers (LViTs)) contain over billions of parameters, posing new challenges first for their training and then their deployment on cloud/edge devices. In this project, we explore and develop scientific methods for accelerated memory-efficient training/fine-tuning and inference of such models. Below is the list of relevant publications.
 
 
-[SlimFit: Memory-Efficient Fine-Tuning of Transformer-based Models Using Training Dynamics](https://arxiv.org/abs/2305.18513) (Arash Ardakani, Altan Haan, Shangyin Tan, Doru Thom Popovici, Alvin Cheung, Costin Iancu, Koushik Sen, Preprint 2023)
+[SlimFit: Memory-Efficient Fine-Tuning of Transformer-based Models Using Training Dynamics](https://aclanthology.org/2024.naacl-long.345/) (Arash Ardakani, Altan Haan, Shangyin Tan, Doru Thom Popovici, Alvin Cheung, Costin Iancu, Koushik Sen, NAACL 2024)
 
 [Partially-Random Initialization: A Smoking Gun for Binarization Hypothesis of BERT](https://aclanthology.org/2022.findings-emnlp.191) (Arash Ardakani, Findings of the Association for Computational Linguistics: EMNLP 2022)
 
