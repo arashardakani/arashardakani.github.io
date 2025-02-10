@@ -2,7 +2,7 @@
 layout: page
 title: ML for Hardware
 description: ML-driven Solutions for Electronic Design Automation
-img: assets/img/aidhd.png
+img: assets/img/aidhd.jpg
 importance: 1
 category: work
 ---
