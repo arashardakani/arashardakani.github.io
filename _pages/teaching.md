@@ -9,6 +9,7 @@ nav_order: 5
 
 ### Lecturer
  - McGill University
+    - ECSE 222-Digital Logic (Winter 2024)
     - ECSE 222-Digital Logic (Winter 2021)
 
 
