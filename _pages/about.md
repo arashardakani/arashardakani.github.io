@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://slice.eecs.berkeley.edu/'>UC Berkeley</a> 
+subtitle: UC Berkeley
 
 profile:
   align: right
