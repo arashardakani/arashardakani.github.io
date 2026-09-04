@@ -25,5 +25,5 @@ My research focuses on AI-driven electronic design automation, with an emphasis 
 
 More broadly, my research aims to move beyond conventional heuristic-based design flows by developing scalable learning-driven methods capable of reasoning about complex hardware designs. My long-term goal is to develop AI-assisted hardware design workflows in which learning and reasoning models can automate and jointly optimize multiple stages of the chip design process-from specification and RTL generation to verification, synthesis, and physical implementation.
 
-I am actively recruiting motivated MSc and PhD students interested in AI-driven research at the intersection of artificial intelligence, computer hardware, and EDA. Prospective students and researchers interested in collaboration are welcome to contact me at <arash.ardakani@ualberta.ca>.
+I am actively recruiting motivated MSc and PhD students interested in AI-driven research at the intersection of artificial intelligence, computer hardware, and EDA. Prospective students and researchers are welcome to contact me at <arash.ardakani@ualberta.ca>.
 
